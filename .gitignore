@@ -1,0 +1,7 @@
+proxy_on.sh
+proxy_off.sh
+logs/*
+.log
+.env
+*.db
+*.mmdb
